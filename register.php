@@ -32,7 +32,7 @@ if(isset($_POST["submitButton"])) {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Welcome to Reeceflix</title>
+    <title>Welcome to DaFlix</title>
     <link rel="stylesheet" type="text/css" href="assets/style/style.css" />
 </head>
 <body>
@@ -44,7 +44,7 @@ if(isset($_POST["submitButton"])) {
             <div class="header">
                 <img src="assets/images/logo.png" title="Logo" alt="Site logo" />
                 <h3>Sign Up</h3>
-                <span>to continue to Reeceflix</span>
+                <span>to continue to DaFlix</span>
             </div>
 
             <form method="POST">
